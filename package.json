@@ -1,0 +1,23 @@
+{
+  "name": "09-nodejs-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supanov/09-NodeJs-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supanov/09-NodeJs-Generator/issues"
+  },
+  "homepage": "https://github.com/supanov/09-NodeJs-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
